@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 🔥~~🔥~~🔥~~🔥~~🔥~~🔥~~🔥~~🔥
 <p align="center">
-<!-- 1. Blur Gradient Banner with Fire Palette -->
-<img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&customColorList=0,FF0000,FF4500,FF8C00,FFD700&height=200&section=header&text=%F0%9F%94%A5%20IGNITE%20THE%20CODE%20%F0%9F%94%A5&fontSize=32&fontColor=ffffff&desc=Burning%20through%20bugs%20%26%20crafting%20blazingly%20fast%20systems&descSize=14&descAlignY=62&animation=twinkle" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&customColorList=0,FF0000,FF4500,FF8C00,FFD700&height=200&section=header&text=%F0%9F%94%A5%20IGNITE%20THE%20CODE%20%F0%9F%94%A5&fontSize=32&fontColor=ffffff&desc=Burning%20through%20bugs%20%26%20crafting%20blazingly%20fast%20systems&descSize=14&descAlignY=62&animation=twinkle" width="100%" />
 </p>
 
 <!-- 2. ASCII Bonfire Art -->
