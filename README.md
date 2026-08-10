@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <small>
-    <b>YOUR_PROJECT_NAME</b> is designed to solve performance bottlenecks with pure efficiency. Forged with clean architecture, it delivers blazingly fast execution while remaining remarkably lightweight and developer-friendly.
+    <b>My Goal</b> is designed to solve performance bottlenecks with pure efficiency. Forged with clean architecture, it delivers blazingly fast execution while remaining remarkably lightweight and developer-friendly.
   </small>
 </p>
 
