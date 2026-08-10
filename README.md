@@ -8,8 +8,8 @@
 
 ```text
 PLAYER       Cyn
-CLASS        Creative / game-design apprentice
-CURRENT XP   Game architecture · programming · making small things feel alive
+CLASS        Game-Design Apprentice / Algorithm Enthusiast
+CURRENT XP   Game programming · exploring algorithms, simulations, and interactive systems · crafting tiny worlds with imagination
 ```
 
 **CS2** — Every round is a small argument with pressure: one calm decision can make the whole map feel possible.
