@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=23&pause=1200&color=1D4ED8&center=true&vCenter=true&width=680&lines=CYN+%2F%2F+PLAYABLE+IDEAS;rules.+rhythm.+heart." alt="CYN // I CAN DO ALL THINGS" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=23&pause=1200&color=1D4ED8&center=true&vCenter=true&width=680&lines=CYN+%2F%2F+I+CAN+DO+ALL+THINGS;rules.+rhythm.+heart." alt="CYN // I CAN DO ALL THINGS" />
 </p>
 
 <p align="center"><sub>learning to turn a good feeling into a game system.</sub></p>
