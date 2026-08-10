@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=24&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&lines=CYN+%2F%2F+MAKE+IT+PLAYABLE;creative+ideas+need+rules%2C+rhythm%2C+and+a+reason+to+stay." alt="CYN // MAKE IT PLAYABLE" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=23&pause=1200&color=1D4ED8&center=true&vCenter=true&width=680&lines=CYN+%2F%2F+PLAYABLE+IDEAS;creative+ideas+need+rules%2C+rhythm%2C+and+a+reason+to+stay." alt="CYN // PLAYABLE IDEAS" />
 </p>
 
-<p align="center"><i>Learning to turn a good feeling into a game system.</i></p>
+<p align="center"><sub>learning to turn a good feeling into a game system.</sub></p>
 
 ---
 
@@ -20,21 +20,20 @@ CS2 taught me that 0.2 seconds can carry a whole story.
 Stardew Valley taught me that systems need a heart.
 
 <details>
-<summary><kbd>E</kbd> — inspect the backpack</summary>
+<summary><b>▸ open side quest</b></summary>
 <br>
 
 ```text
  /\_/\
-( o.o )    side quest unlocked:
- > ^ <    build games people remember
+( o.o )    you found the cat.
+ > ^ <    objective: build games people remember
 ```
 
-The cat accepts mouse clicks; GitHub README pages do not allow custom JavaScript,
-so it cannot capture real keyboard input here. But it is always listening.
+<a href="https://github.com/Cyn30?tab=repositories">enter the workshop ↗</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/Cyn30?tab=stars">inspect favourites ↗</a>
 </details>
 
 <p align="center">
-  <a href="https://github.com/Cyn30?tab=repositories">[ projects ]</a> ·
-  <a href="https://github.com/Cyn30?tab=stars">[ things worth studying ]</a> ·
-  <a href="https://github.com/Cyn30">[ respawn ↻ ]</a>
+  <a href="https://github.com/Cyn30/Cyn30">[ respawn ↻ ]</a>
 </p>
