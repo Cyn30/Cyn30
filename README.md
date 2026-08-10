@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=FF4500&height=200&section=header&text=%F0%9F%94%A5%20BLAZING%20CODE%20%F0%9F%94%A5&fontSize=42&fontColor=ffffff&animation=twinkle" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&customColorList=0,FF0000,FF4500,FF8C00,FFD700&height=220&section=header&text=%F0%9F%94%A5%20IGNITE%20THE%20CODE%20%F0%9F%94%A5&fontSize=42&fontColor=ffffff&animation=twinkle&fontAlignY=40" width="100%"/>
+</p>
+
+<p align="center">
+  <!-- 1. Blur Gradient Banner with Fire Palette (Main Text & Description) -->
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&customColorList=0,FF0000,FF4500,FF8C00,FFD700&height=240&section=header&text=%F0%9F%94%A5%20IGNITE%20THE%20CODE%20%F0%9F%94%A5&fontSize=40&fontColor=ffffff&desc=Burning%20through%20bugs%20%26%20crafting%20blazingly%20fast%20systems&descSize=18&descAlignY=62&animation=twinkle" width="100%"/>
+</p>
+
+<!-- 2. ASCII Bonfire Art -->
+```ascii
+              .--------.
+             /  .-.  .-. \
+            |  /   \/   \|   🔥 "Code like fire, clean like light."
+            |  \___/\___/|   
+             \          /    
+              '--------'    
+   (  .      /\        /\     .  )
+    )  .    /  \      /  \   .  (
+   (  .    /    \    /    \   .  )
+  🔥~~🔥~~🔥~~🔥~~🔥~~🔥~~🔥~~🔥
