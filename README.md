@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=23&pause=1200&color=1D4ED8&center=true&vCenter=true&width=680&lines=CYN+%2F%2F+PLAYABLE+IDEAS;rules.+rhythm.+heart." alt="CYN // PLAYABLE IDEAS" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=23&pause=1200&color=1D4ED8&center=true&vCenter=true&width=680&lines=CYN+%2F%2F+PLAYABLE+IDEAS;rules.+rhythm.+heart." alt="CYN // I CAN DO ALL THINGS" />
 </p>
 
 <p align="center"><sub>learning to turn a good feeling into a game system.</sub></p>
@@ -12,11 +12,11 @@ CLASS        Creative / game-design apprentice
 CURRENT XP   Game architecture · programming · making small things feel alive
 ```
 
-**CS2** — I love the electric math of aim, timing, and teamwork: one clean peek can flip an entire round.
+**CS2** — Every round is a small argument with pressure: one calm decision can make the whole map feel possible.
 
-**Stardew Valley** — I love its quiet promise that a life can be grown season by season, seed by seed.
+**Stardew Valley** — If life had a Stardew mode, I’d grow plans slowly, keep good people close, and let every season mean something.
 
-**Stephen Curry** — proof that enough reps can turn an impossible shot into a rhythm.
+**Stephen Curry** — Being underrated is not the ending, it is the quiet prologue. The proof shows up one rep, one shot, one day at a time.
 
 <details>
 <summary><b>▸ open side quest</b></summary>
