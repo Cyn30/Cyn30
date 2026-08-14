@@ -24,7 +24,7 @@ CURRENT XP   Game programming · exploring algorithms, simulations, and interact
 
 ```text
  /\_/\
-( o.o )    you found the cat.
+( o.o )    you found the cat！！！
  > ^ <    objective: build games people remember
 ```
 
